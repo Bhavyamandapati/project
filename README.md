@@ -1,5 +1,6 @@
 <h1 align="center">Bhavya Mandapati Bhavya Mandapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
